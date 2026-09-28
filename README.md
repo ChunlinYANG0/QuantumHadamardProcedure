@@ -1,2 +1,2 @@
 # QuantumHadamardProcedure
-Parallelizable Quantum Circuits of Hadamard Polynomials for Nonlinear Amplitude Transformations in Quantum Neural Networks
+Resource-Tunable Quantum Implementation of Nonlinear Element-Wise Transformations
